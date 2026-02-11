@@ -26,11 +26,12 @@
 - Hạn chế từ môi trường Cisco Packet Tracer chưa sử dụng được hết các chức năng của IPv6
 
 # Hướng dẫn
-- Cài đặt Cisco Packet Tracer, sau đó mở file [Toan bo he thong.pkt](./Toan%20bo%20he%20thong.pkt) 
+- Cài đặt Cisco Packet Tracer, sau đó mở file [Toan bo he thong.pkt](./Toan%20bo%20he%20thong.pkt) .
 Đây là file toàn bộ hệ thống được xây dựng, nếu muốn chạy đủ các chức năng nhưng đỡ rối mắt, hãy sử dụng file [Demo.pkt](./Demo.pkt).
 Toàn bộ hệ thống mạng đã được cấu hình sẵn và hoạt động ổn định.
 - Kiểm tra bằng cách:
   + Gửi gói tin giữa các máy tính
   + Sử dụng lệnh PING trong Cisco Packet Tracer
+  + Kiểm tra các dịch vụ theo kịch bản đối với các máy
 
 Nếu có vấn đề hoặc cần hỗ trợ, vui lòng liên hệ: ngvd.ngvanduc@gmail.com
